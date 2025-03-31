@@ -1,6 +1,7 @@
 # python 1 
 =++ test1.py
 ==++ testing print out, variables, int, char, string, loop, ifelse statement, nested if, nested looping
+===++ Updates in test1.py
 
 # python 2
 =++ tictactoe.py 
