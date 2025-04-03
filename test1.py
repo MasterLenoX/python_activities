@@ -24,7 +24,7 @@ if (5 > 2):
 
 # Nested If Else Statement
 
-coffee_drinker = True
+coffee_drinker = False
 
 if coffee_drinker:
     print("LET's DRINK COFFEE")
@@ -33,3 +33,7 @@ elif coffee_drinker == True:
 else:
     print("YAWA")
 
+# Lists
+# bikes = ['trek','redline', 'giant']
+
+# first_bike = bikes[0]
