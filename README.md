@@ -19,4 +19,7 @@
 =++ donut_1.py
 ==++ rendering the donut using the pygame method
 
+# python 6 
+=++ snake_game.py
+==++ creating a snake game using tkinter
 
