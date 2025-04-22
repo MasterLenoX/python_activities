@@ -19,19 +19,19 @@ print("I'm a graduate student and I'm " + str(fage) + " years old")
 
 #if statement
 
-if (5 > 2):
-  print ("Five is greater than Two")
+# if (5 > 2):
+#   print ("Five is greater than Two")
 
-# Nested If Else Statement
+# # Nested If Else Statement
 
-coffee_drinker = False
+# coffee_drinker = False
 
-if coffee_drinker:
-    print("LET's DRINK COFFEE")
-elif coffee_drinker == True:
-    print("TARA MILK TEA")
-else:
-    print("YAWA")
+# if coffee_drinker:
+#     print("LET's DRINK COFFEE")
+# elif coffee_drinker == True:
+#     print("TARA MILK TEA")
+# else:
+#     print("YAWA")
 
 # Lists
 # bikes = ['trek','redline', 'giant']
